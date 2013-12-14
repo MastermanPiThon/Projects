@@ -1,7 +1,7 @@
 Projects
 ========
 
-For project proposals and final summaries
+A repository for project proposals and final summaries
 
 HOW TO ADD A FILE:
 
