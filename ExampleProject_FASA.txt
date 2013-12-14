@@ -1,0 +1,33 @@
+Name: Colin Kerr
+Project Name: Flying Atomic Space Apes
+
+Summary:
+A botched supernova mutated normal earth apes into FYLYING ATOMIC SPACE APES!!!  
+If that wasn't bad enough they are angry.  The only thing that will appease them 
+are RADIOACTIVE BANANAS.  Feed the FLYING ATOMIC SPACE APES!!! a stream of RADIOACTIVE BANANAS 
+untill they are too laden with RADIOACTIVE BANANAS to fly.  
+
+The format of this game will be a 2D side view of a horizon with a RADIOACTIVE BANANA tank that can move from left 
+to right on the bottom of the screen.  FLYING ATOMIC SPACE APES!!! will fly across the sky shooting cosmic rays 
+which must be avoided.  Once overladen with RADIOACTIVE BANANAS a FLYING ATOMIC SPACE APE!!! will fall to the ground 
+as a harmless atomic space ape and disappear.  The game is lost when a FLYING ATOMIC SPACE APE!!! reaches the ground.  
+The game is won when all FLYING SPACE APES!! have been turned into harmless atomic space apes.  No score will be kept.
+
+The keyboard will be used for control.  Space fires RADIOACTIVE BANANAs.  Left and right arrows move the 
+RADIOACTIVE BANANA tank across the screen.
+
+Supplies:
+ - Pi
+ - Monitor
+ - Sprites
+   - FLYING ATOMIC SPACE APE!!!
+   - Harmless atomic space ape
+   - Ape hit with banana
+   - RADIOACTIVE BANANA
+   - RADIOACTIVE BANANA tank
+   - banana fired from tank
+   - WINNER Text
+   - LOOSER Text
+ - Background picture
+ 
+   
