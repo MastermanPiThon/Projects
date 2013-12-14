@@ -1,0 +1,23 @@
+Name: Colin Kerr
+
+Project Name: HACC - HAnd Controlled Car
+
+
+Goal:
+
+Drive the i-racer car using hand gestures.
+
+
+Description:
+
+Use a 3 ultrasonic sensors in a frame to control accelleration and turning of the i-racer car.  One sensor will be used to simulate pressing a pedal with your hand.  It will measure the distance of the left hand, the closer to the sensor is faster and further is slower.  No reverse.  The other two sensors will simulate a steering wheel held with one hand at the top.  The two sensors will point towards each other at a distance of about two feet.  The right hand will be placed inbetween the two sensors.  Moving the right hand left and right will turn the car.  The Raspberry Pi will control the ultrasonic sensors directly with resisors or via the Gertboard.  The Pi will use bluetooth to communicate with the i-racer.  A monitor will be used to display visual indicators to show the user how hard they are pressing on the gas and the position of the wheel.
+
+Supplies:
+
+ - Pi
+ - i-racer
+ - Gertboard and/or resistors
+ - Breadboard
+ - 3 ultrasonic sensors
+ - bluetooth dongle
+ - Monitor
