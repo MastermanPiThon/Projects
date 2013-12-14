@@ -8,6 +8,7 @@ Via the Web:
 1. Click the + icon above the list of files.  It is to the right of the text projects. 'Projects/+'.
 2. Enter file name in the text box at the top of the page
 3. Enter the project proposal in the black area
+4. Done
 
 Via a Github GUI client:
 1. Mac - http://mac.github.com/
