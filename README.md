@@ -10,9 +10,9 @@ Via the Web:
 3. Enter the project proposal in the black area
 
 Via a Github GUI client:
-Mac - http://mac.github.com/
-Windows - http://windows.github.com/
-Android - http://mobile.github.com/
+1. Mac - http://mac.github.com/
+2. Windows - http://windows.github.com/
+3. Android - http://mobile.github.com/
 
 Via git command line client:
 On the mac you can install the command line client along with the GUI one as an option.  I assume it is the same with PCs
