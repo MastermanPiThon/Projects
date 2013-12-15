@@ -8,6 +8,7 @@ Description:
 By using the computer or with LED lights, images will be created and saved then projected or initiated onto various surfaces. Unlike past projections in which need computers to connect to the porjector. These images could be created by hand and saved solely by turning on the Raspberry Pi. Intially, the goal is to be able to create images using the Raspberry Pi and/or computer (the saving aspect) and project onto any surface. Also, the Raspberry Pi should be able to work as the function of a pen and draw onto different surfaces. The Raspberry Pi has built in memory, so saving the images and even transferring them onto a USB disk should work. The third aspect would be to present a slide show of saved images and create beautiful and wonderful light effects.
 
 
+
 Supplies:
 -Pi/USB (if necessary)
 -Monitor
