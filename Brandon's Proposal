@@ -10,6 +10,7 @@ Summary: I want to do a game similar to asteroid where the user attempts
 Materials:
   - Raspberry Pi
   - Monitor
-  - Game Controller
-  - Sprites
+  - Game Controller(s)
+  - Sprites for ship and enemies
+  - Text Display for score, enemy count, etc.
   - Group of 3+ people
