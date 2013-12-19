@@ -1,0 +1,7 @@
+Project Name: Maze-Bot
+Description: A Robot that will go through a maze autonomously. 
+Materials:
+  - Stuff to make a robot (motors, wheels, electronics)
+  - Bump or Ultrasonic Sensors
+  - Camera?
+  - Raspberry Pi
