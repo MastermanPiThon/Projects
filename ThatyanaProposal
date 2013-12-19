@@ -1,19 +1,17 @@
 Name: Thatyana Morales
 
-Project Name: Chicken Scratch
-
-Summary: I plan to program a game that involves a sprite 
-         going through a series of levels of increasing 
-         difficulty, where the levels involve puzzles that 
-         players must solve in order to advance to the next
-         level
+Summary: I plan to program a game that involves the 
+         player making choices. Basically a text based
+         game. Based on what the player decides, different
+         situations happen. My trouble might be the time
+         it will take to go through many different combinations
+         of actions and endings.
 
 Materials:
  - Computer
  - Raspberry Pi
  - Group of three others
  - knowledge of python
- - sprite
  - text
  - images
 
