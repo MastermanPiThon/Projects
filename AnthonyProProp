@@ -1,8 +1,13 @@
+MATHDRAGON!
+by Anthony Rolland
+
 I would like to make a game like type shark, but instead of sharks they would be fireballs launched by a huge dragon. The
 words on these fireballs would be randomly generated math problems. After defending from fireballs, the knight (the player
 ) would have to approach the dragon and have to complete math problems to cause damage to the dragon. Once the dragon is
 defeated a victory cutscene would be played. It would be called "Slay the Dragon". When you recieve damage the board shocks
 you.
+
+It would be a side scroller with the knight always moving to the right. 8 bit graphics.
 
 Materials
   Rasberry pi
