@@ -1,2 +1,23 @@
 Name: Simeon Ristic
+Project Title: Pi and Lagrangian Points
 
+Summary:
+Power your spacecraft out of the solar system by using the stability of Lagrange Points to aid your 
+flight and use them as checkpoints to leave the pull of the Sun.
+Players start at Mercury and use the arrow keys (or game controllers) to power spacecraft against the 
+gravity of the sun and the respective planets to reach the Lagrange points of the successive planets 
+and use them as checkpoints on the journey outside the solar system. After passing all 8 planets, 
+players finish the game. If players fall into the sun or crash into planets, they lose. Fuel points 
+are tallied and the player who uses the smallest amount of fuel wins the game. 
+
+Players can refine their strategy and timing to use less fuel, as the planets orbit the sun at 
+different rates, creating many opportunities to use gravity assists to power the craft out of 
+the solar system. 
+
+Alternately, simpler levels could be created with fewer planets or simpler conditions. 
+
+
+Supplies:
+-Pi
+-Monitor
+-Keyboard (or Game Controller)
