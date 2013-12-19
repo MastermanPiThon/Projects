@@ -1,5 +1,9 @@
-My project idea is to make a video game using the Raspberry Pi. It can be a game like Sky Burger where you have to move something to catch falling objects. In this version, the player would move a plate left and right to try to catch as many falling pancakes as they can. Maybe there can be other bonuses, like butter or syrup, too. We would have to find a way to have pancakes fall down the screen in random patterns. We would also need to be able to connect either a game controller to the plate to get it to move left and right, but not in any other directions. 
+Jamie Schwartz
+
+Summary:
+My project idea is to make a video game using the Raspberry Pi. It would be a game like Sky Burger where you have to move something to catch falling objects. In this version, the player would move a plate left and right to try to catch as many falling pancakes as they can. Maybe there can be other bonuses to catch too, like butter or syrup. We would have to find a way to have pancakes fall down the screen in random patterns. We would also need to be able to connect a game controller to the plate to get it to move left and right, but not in any other directions. 
 
 Materials:
 Game controller
 Raspberry Pi
+Pictures/clip art of pancakes, plate, butter/syrup
