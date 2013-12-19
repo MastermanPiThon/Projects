@@ -1,0 +1,14 @@
+I want to make an 8 level game, each level having 2 parts.
+First part is grouping 3 or more of the same symbol to get 
+points on the board. After a certain amount of time another
+row would be added. The goal of this part is to reach the target
+amount of points before time runs out. The second part would
+be a matching game, solely for bonus points. Over the course of
+8 levels, either the amount of points would get higher, or time would
+get shorter.
+
+There might be a story attached to this, but I have no idea what
+it would be about as this point.
+
+Supplies:
+Mouse
