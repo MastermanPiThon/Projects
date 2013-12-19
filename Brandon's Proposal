@@ -1,0 +1,15 @@
+Name: Brandon Dunbar
+Proposal
+
+Summary: I want to do a game similar to asteroid where the user attempts
+         to shoot the enemies for points. I want to ship to be able to 
+         spin and shoot as well as move. There will be a series of levels 
+         based on either the number of enemies defeated or the score they
+         achieve.
+
+Materials:
+  - Raspberry Pi
+  - Monitor
+  - Game Controller
+  - Sprites
+  - Group of 3+ people
