@@ -4,6 +4,6 @@ Thatyana Morales
 Brandon Dunbar
 Maddie Taylor-McGrane
 
-
-
-
+myName = input ()
+print "Hello, what is your name?"
+print myName + "is awesome"
